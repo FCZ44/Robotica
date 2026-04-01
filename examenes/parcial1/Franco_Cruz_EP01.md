@@ -44,6 +44,7 @@ En el caso del sistema propuesto se puede declarar ciertos aspectos que harán m
 1.  Estamos trabajando en el plano, es decir, no habrá desplazamiendo en una de las direcciones, en el caso del problema, no hay desplazamientos sobre el eje **z**.
 2. Como estamos trabajando con un plano normal al eje **z**, y al tener una vista perpendicular del sistema, se asegura que las rotaciones se harán siempre sobre este mismo eje.
 3. Durante todo el planteo estaré trabajando tanto con literales como con variables, por lo que no habrá un calculo matemático, si no que se hará la obtención de los modelos necesarios para la descripción total del sistema.
+4. Durante el reporte se encontrarán combinadas ecuaciones escritas con codigo de latex y otras originadas por código de cálculo en matlab, por lo tanto es necesario aclarar que se verá una diferencia en la notación de ambas, por lo que para hacerlas equivalentes hay que dejar en claro que toda notación en forma  de LaTeX es equivalente a la notación  de matlab.
 
 Habiendo aclarado lo anterior, prosigo con el calculo de las transformaciones.
 
