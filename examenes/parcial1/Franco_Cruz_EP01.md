@@ -37,7 +37,7 @@ Cómo se puede observar, para el calculo de la transformación es necesario obte
 -  Un vector nulo transpuesto. 
 -  un uno en la posición 4,4. 
 
- $$ \mathbf{T}=\left\lbrack \begin{array}{cc} \mathbf{R} & \mathbf{P}\newline \mathbf{0} & 1 \end{array}\right\rbrack $$ 
+ $$ \mathbf{T}=\left\lbrack \begin{array}{cc} \mathbf{R} & \mathbf{P}\newline \mathbf{0}^{T} & 1 \end{array}\right\rbrack $$ 
 
 En el caso del sistema propuesto se puede declarar ciertos aspectos que harán más sencillo el análisis.
 
